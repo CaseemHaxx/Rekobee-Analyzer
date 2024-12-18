@@ -87,7 +87,7 @@ bytes from static data.
 
 Displays input (from the server) and output (from the client) streams.
 
-<p align="center"><img src=".github/revsh.png"></p>
+<p align="center"><img src="operation.png"></p>
 
 In verbose mode, also displays TERM, argp for ioctl, and anything else that I
 don't take into account.
